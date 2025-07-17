@@ -3,3 +3,4 @@
 /app/__pycache__
 /app/model/__pycache__
 /app/model/enums/__pycache__
+/app/migration/__pycache__
