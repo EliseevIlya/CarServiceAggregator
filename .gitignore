@@ -1,1 +1,5 @@
 /.idea
+.env
+/app/__pycache__
+/app/model/__pycache__
+/app/model/enums/__pycache__
